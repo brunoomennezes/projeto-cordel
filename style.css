@@ -14,9 +14,6 @@
     margin: 0;
 }
 
-body {
-    min-height: 100vh;
-}
 
 /* ------------------------- CABEÇALHO -------------------------- */
 header {
@@ -160,5 +157,3 @@ footer > p > a{
 footer > p > a:hover {
     text-decoration: underline;
 }
-
-
